@@ -1,0 +1,9 @@
+.demo-loadmore-list {
+    min-height: 350px;
+}
+
+.info-action-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
